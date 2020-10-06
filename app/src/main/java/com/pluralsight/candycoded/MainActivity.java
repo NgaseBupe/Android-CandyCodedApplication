@@ -82,8 +82,10 @@ public class MainActivity extends AppCompatActivity {
         inflater.inflate(R.menu.main, menu);
         return true;
     }
-    @Override
+    @Override//overrding the onOptionItemSelected Method
     public boolean onOptionsItemSelected(MenuItem item) {
+        Intent infoIntent = new Intent(this, InfoActivity.class);//adding intent to call infoActivity class
+        startActivity(infoIntent);
         return super.onOptionsItemSelected(item);
     }
     // ***

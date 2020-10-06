@@ -172,7 +172,14 @@
       <option name="project" value="LOCAL" />
       <updated>1601902352937</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Overriding OnOptionsItemSelected method">
+      <created>1601952840797</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1601952840797</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -190,7 +197,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="running app testing" />
-    <option name="LAST_COMMIT_MESSAGE" value="running app testing" />
+    <MESSAGE value="Overriding OnOptionsItemSelected method" />
+    <option name="LAST_COMMIT_MESSAGE" value="Overriding OnOptionsItemSelected method" />
   </component>
   <component name="WindowStateProjectService">
     <state x="491" y="110" width="374" height="581" key="#com.intellij.ide.util.MemberChooser" timestamp="1601952688963">
@@ -201,10 +209,10 @@
       <screen x="0" y="27" width="1366" height="741" />
     </state>
     <state x="524" y="289" width="308" height="222" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.27.1366.741@0.27.1366.741" timestamp="1601897348501" />
-    <state x="153" y="27" width="1050" height="741" key="CommitChangelistDialog2" timestamp="1601902351842">
+    <state x="153" y="27" width="1050" height="741" key="CommitChangelistDialog2" timestamp="1601952840269">
       <screen x="0" y="27" width="1366" height="741" />
     </state>
-    <state x="153" y="27" width="1050" height="741" key="CommitChangelistDialog2/0.27.1366.741@0.27.1366.741" timestamp="1601902351842" />
+    <state x="153" y="27" width="1050" height="741" key="CommitChangelistDialog2/0.27.1366.741@0.27.1366.741" timestamp="1601952840269" />
     <state width="1320" height="173" key="GridCell.Tab.0.bottom" timestamp="1601903354208">
       <screen x="0" y="27" width="1366" height="741" />
     </state>
